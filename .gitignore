@@ -1,2 +1,5 @@
 /env
 /clean_data.csv
+env/
+.DS_Store
+.python-version
